@@ -1,0 +1,58 @@
+body{
+    text-align: center;
+    background-image: url("https://i.pinimg.com/736x/d6/06/0a/d6060a6d2ee11ff369132ab926ff04c4.jpg");
+    background-position: center;
+    background-size: cover;
+    font-family: 'Raleway', sans-serif;
+}
+#welcome{
+    font-size: 20px;
+    margin-top: 30px;
+    color: aliceblue;
+}
+#heading{
+    font-size: 45px;
+    color: rgb(255, 187, 0);
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+#player1{
+    background-color: rgb(126, 0, 0);
+    margin: 25px;
+    padding: 15px;
+    border-radius: 10px;
+}
+#player{
+    color: rgb(255, 255, 255);
+    font-size: 26px;
+}
+#text{
+    color: rgb(255, 136, 0);
+    font-size: 15px;
+}
+#player2{
+    background-color: rgb(2, 0, 126);
+    padding: 15px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#player2{
+    color: rgb(255, 255, 255);
+    font-size: 26px;
+    margin-bottom: 0px;
+}
+#text2{
+    color: rgb(0, 174, 255);
+    font-size: 15px;
+}
+#click{
+    margin: 20px;
+    background-color: aliceblue;
+    color: blue;
+    border: 0px;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 10px;
+    margin-bottom: 0px;
+}
